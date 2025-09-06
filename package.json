@@ -6,6 +6,10 @@
   "scripts": {
     "deploy": "npx gh-pages -d public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oleksandr-Baranchuk/university-lesson-1.git"
+  },
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
